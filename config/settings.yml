@@ -1,4 +1,4 @@
-TODO_plugin_name:
-  plugin_name_enabled:
-    default: false
+plugins:
+  attachment_record_enabled:
+    default: true
     client: true
